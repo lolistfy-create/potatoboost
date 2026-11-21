@@ -1,0 +1,9 @@
+{
+  "name": "PotatoBoost Mobile",
+  "short_name": "PotatoBoost",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d12",
+  "theme_color": "#090d12",
+  "description": "Gaming settings companion"
+}
